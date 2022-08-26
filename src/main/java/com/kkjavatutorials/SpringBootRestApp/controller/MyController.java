@@ -8,7 +8,7 @@ public class MyController {
 	
 	@GetMapping(path = "/welcome")
 	public String welcome() {
-		return "Welcome to KK JavaTutorials..";
+		return "This web page is created by Divyaraj Mandale using gradle and for that my team helped me .... My team menber are parmeshwar, shreya, priya and sanatan******** ";
 	}
 
 }
